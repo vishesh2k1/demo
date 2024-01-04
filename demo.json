@@ -13,13 +13,7 @@
         "email": "admin@mindset.com",
         "message": "this is my test support ticket"
     },
-    {
-        "ticket_id": 2027,
-        "name": "admin",
-        "username": "admin",
-        "email": "admin@mindset.com",
-        "message": "this is my test support ticket"
-    },
+    
     {
         "ticket_id": 2028,
         "name": "admin",
